@@ -580,13 +580,7 @@ Phase 7  Final Demo           End-to-end attack → detection → response story
 | **Live Demo prototype stage** | [https://swayamsankar-agent-immune-system.swayamsankar259.workers.dev](https://swayamsankar-agent-immune-system.swayamsankar259.workers.dev) |
 | **Demo Video** | _Coming soon_ |
 
----
 
-## 📜 License
-
-Licensed under the MIT License. See [`LICENSE`](./LICENSE) for details.
-
----
 
 <div align="center">
 
