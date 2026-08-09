@@ -28,7 +28,7 @@ An AI security and observability platform for autonomous enterprise AI agents �
 | | |
 |---|---|
 | 🔗 **Source Code** | You are here — see [Getting Started](#-getting-started) to run it locally |
-| 🌐 **Live Prototype Demo** | [Not yet deployed](https://swayamsankar-agent-immune-system.swayamsankar259.workers.dev/audit) |
+| 🌐 **Live Prototype Demo** | https://swayamsankar-agent-immune-system.swayamsankar259.workers.dev/audit |
 | 🎥 **Demo Video** | Coming soon |
 | 📦 **Release** | Pre-release / hackathon build |
 
