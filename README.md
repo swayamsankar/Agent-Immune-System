@@ -29,7 +29,7 @@ An AI security and observability platform for autonomous enterprise AI agents �
 |---|---|
 | 🔗 **Source Code** | You are here — see [Getting Started](#-getting-started) to run it locally |
 | 🌐 **Live Prototype Demo** | https://swayamsankar-agent-immune-system.swayamsankar259.workers.dev/audit |
-| 🎥 **Demo Video**          | [Watch Demo](https://www.loom.com/share/0acd50cd94094256bf34d0db7a5d9616) |
+| 🎥 **Demo Video**          | [Watch Demo](https://www.loom.com/share/9501beb93f684c4aaa0c3864670c76ea) |
 | 📦 **Release** | Pre-release / hackathon build |
 
 ---
@@ -578,7 +578,7 @@ Phase 7  Final Demo           End-to-end attack → detection → response story
 |---|---|
 | **GitHub** | `https://github.com/swayamsankar/Agent-Immune-System` |
 | **Live Demo prototype stage** | [https://swayamsankar-agent-immune-system.swayamsankar259.workers.dev](https://swayamsankar-agent-immune-system.swayamsankar259.workers.dev) |
-| **Demo Video** | [Watch Demo](https://www.loom.com/share/0acd50cd94094256bf34d0db7a5d9616) |
+| **Demo Video** | [Watch Demo](https://www.loom.com/share/9501beb93f684c4aaa0c3864670c76ea) |
 
 
 
