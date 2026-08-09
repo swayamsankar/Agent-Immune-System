@@ -28,7 +28,7 @@ An AI security and observability platform for autonomous enterprise AI agents �
 | | |
 |---|---|
 | 🔗 **Source Code** | You are here — see [Getting Started](#-getting-started) to run it locally |
-| 🌐 **Live Demo** | Not yet deployed |
+| 🌐 **Live Prototype Demo** | [Not yet deployed](https://swayamsankar-agent-immune-system.swayamsankar259.workers.dev/audit) |
 | 🎥 **Demo Video** | Coming soon |
 | 📦 **Release** | Pre-release / hackathon build |
 
@@ -577,7 +577,7 @@ Phase 7  Final Demo           End-to-end attack → detection → response story
 | | |
 |---|---|
 | **GitHub** | `https://github.com/swayamsankar/Agent-Immune-System` |
-| **Live Demo** | _Not available yet — prototype stage_ |
+| **Live Demo prototype stage** | [https://swayamsankar-agent-immune-system.swayamsankar259.workers.dev](https://swayamsankar-agent-immune-system.swayamsankar259.workers.dev) |
 | **Demo Video** | _Coming soon_ |
 
 ---
