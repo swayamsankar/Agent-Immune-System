@@ -578,7 +578,7 @@ Phase 7  Final Demo           End-to-end attack → detection → response story
 |---|---|
 | **GitHub** | `https://github.com/swayamsankar/Agent-Immune-System` |
 | **Live Demo prototype stage** | [https://swayamsankar-agent-immune-system.swayamsankar259.workers.dev](https://swayamsankar-agent-immune-system.swayamsankar259.workers.dev) |
-| **Demo Video** | _Coming soon_ |
+| **Demo Video** | [Watch Demo](https://www.loom.com/share/0acd50cd94094256bf34d0db7a5d9616) |
 
 
 
