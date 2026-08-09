@@ -9,7 +9,6 @@
 An AI security and observability platform for autonomous enterprise AI agents — built for the hackathon, designed for production.
 
 [![Status](https://img.shields.io/badge/status-prototype-orange)](#-project-status)
-[![License](https://img.shields.io/badge/license-MIT-blue)](#-license)
 [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-Telemetry%20%26%20Evidence-005571)](#-why-elasticsearch)
 [![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-Reasoning%20Layer-FF9900)](#-why-amazon-bedrock)
 [![React](https://img.shields.io/badge/Frontend-React-61DAFB)](#-technology-stack)
@@ -321,6 +320,57 @@ Investigation:  #AI-1042
 
 ---
 
+## 🧪 Prototype Preview
+
+The demo is built to tell one clear story, from a healthy fleet to a contained threat:
+
+
+<img width="1917" height="914" alt="image" src="https://github.com/user-attachments/assets/cbc252e6-30ab-4028-b102-47bd7aa530c0" />
+<img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/1ffb5aad-0ff7-4529-a7dd-18bb2e2d61fc" />
+<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/a3ba78d7-294c-4860-89b6-669e625a4bbc" />
+
+
+
+
+### Primary screens
+
+| Screen | Shows |
+|---|---|
+| **1. Agent Fleet** | 24 Agents · 7 Threats · 2 Quarantined · 31% Overall Risk |
+| **2. Threat Center** | Active incidents, severity, agent, threat type, risk score, timestamp |
+| **3. Investigation** | Timeline, evidence, agent behavior, AI explanation, risk score |
+| **4. Quarantine** | Agent status, quarantine reason, restricted tools, linked investigation ID |
+
+### Screenshot gallery
+
+Screenshots will live in `/docs/screenshots/` and be linked here once the UI is finalized:
+
+```
+docs/screenshots/
+├── agent-fleet-dashboard.png
+├── threat-center.png
+├── investigation-view.png
+└── quarantine-view.png
+```
+
+**Suggested preview order for this README once images are added:**
+
+```
+Agent Immune System
+        ↓
+Agent Fleet Dashboard
+        ↓
+Threat Detection
+        ↓
+Investigation
+        ↓
+Quarantine
+```
+
+
+
+---
+
 ## 🛠️ Technology Stack
 
 | Layer | Technology | Purpose |
@@ -340,54 +390,6 @@ Investigation:  #AI-1042
 > Elasticsearch and Amazon Bedrock are intentionally kept central to the architecture — telemetry/evidence search and AI reasoning are the two pillars the whole system is built on.
 
 ---
-
-## 📁 Repository Structure
-
-```
-agent-immune-system/
-├── README.md
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── layouts/
-│   │   ├── services/
-│   │   └── data/
-│   ├── package.json
-│   └── vite.config.js
-├── backend/
-│   ├── app/
-│   │   ├── api/
-│   │   ├── agents/
-│   │   ├── detection/
-│   │   ├── investigation/
-│   │   ├── response/
-│   │   ├── elasticsearch/
-│   │   └── main.py
-│   ├── requirements.txt
-│   └── .env.example
-├── detection/
-│   ├── baselines/
-│   ├── rules/
-│   └── anomaly_engine.py
-├── agents/
-│   ├── demo_agents/
-│   └── immune_agent/
-├── elastic/
-│   ├── mappings/
-│   ├── index_templates/
-│   └── sample_data/
-├── docker/
-│   └── docker-compose.yml
-├── docs/
-│   ├── architecture.md
-│   ├── demo.md
-│   └── threat-model.md
-└── tests/
-    ├── test_detection.py
-    ├── test_api.py
-    └── test_response.py
-```
 
 ---
 
@@ -564,11 +566,9 @@ Phase 7  Final Demo           End-to-end attack → detection → response story
 
 | Member | Role |
 |---|---|
-| Member 1 | AI / Backend |
+| Member 1 | AI / Backend /Cloud / AWS |
 | Member 2 | Elasticsearch / Security |
-| Member 3 | Frontend / UX |
-| Member 4 | Cloud / AWS |
-| Member 5 | Research / Presentation |
+| Member 3 | Frontend / UX / Research / Presentation |
 
 ---
 
@@ -576,7 +576,7 @@ Phase 7  Final Demo           End-to-end attack → detection → response story
 
 | | |
 |---|---|
-| **GitHub** | `https://github.com/YOUR_USERNAME/agent-immune-system` |
+| **GitHub** | `https://github.com/swayamsankar/Agent-Immune-System` |
 | **Live Demo** | _Not available yet — prototype stage_ |
 | **Demo Video** | _Coming soon_ |
 
